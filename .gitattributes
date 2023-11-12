@@ -1,0 +1,6 @@
+BPIC12/BPIC_2012_log.csv filter=lfs diff=lfs merge=lfs -text
+BPIC12/BPIC_2012_Prefixes_all.csv filter=lfs diff=lfs merge=lfs -text
+BPIC12/BPIC_2012_Prefixes.csv filter=lfs diff=lfs merge=lfs -text
+BPIC17/BPIC_2017_Prefixes_all.csv filter=lfs diff=lfs merge=lfs -text
+BPIC20/RequestForPayment.xes filter=lfs diff=lfs merge=lfs -text
+BPIC20/BPIC_2020_prefixes_all.csv filter=lfs diff=lfs merge=lfs -text
