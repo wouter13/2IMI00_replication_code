@@ -9,6 +9,13 @@ The code is written in Python 3.9.13. To install the required packages, run the 
 pip install -r requirements.txt
 ```
 
+## get the data
+Go to the google drive: https://drive.google.com/drive/folders/1LodCLKTkwJ_wQqtqtFDAzGgWm5LxPepm?usp=drive_link
+Download the data and place it in the main repocitory. The model will look for the data in the following folders:
+BPIC_2012
+BPIC_2017
+BPIC_2020
+
 ## run experiments
 
 To run the experiments, go to one of the notebooks (files ending on .ipynb) and run the notebook to get the results. 
